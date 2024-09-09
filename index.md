@@ -23,11 +23,25 @@ It also provides code that implements a variety of useful design concepts, inclu
 
 ## User Guide
 
-This section wil provide a walkthrough of the in5PIRE user interface and its capabilities.
+This section will provide a walkthrough of the in5PIRE user interface and its capabilities.
 
-### Pages
+## Pages
 
-Pages will be updated here following project launch.
+Pages will be added here as they are created. This section will be updated continuously as pages change.
+
+### Input Pages
+![](images/InputPage1.png)
+
+An early version of the input page including an excel-like component and possible tutorial text for new users, or information about the finacial model. The sheet will update as numbers are added by the user. 
+
+![](images/InputPage2.png)
+
+Another version of the input page without the side text. In the final version, the text may be able to fold into an expandable section that can be pulled out if the user needs it.
+
+### Graph Pages 
+![](images/GraphPage.png)
+
+A mockup showcasing the different graphs that we could include for visualisation on each of the financial profiles that a user created. This could be an upper-level page that includes descriptions and links to the actual graphs, or could scroll down into each of the graphs. 
 
 ## Community Feedback
 
