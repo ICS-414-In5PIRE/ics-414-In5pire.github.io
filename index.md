@@ -127,8 +127,7 @@ The development process for in5PIRE conformed to [Issue Driven Project Managemen
 The following sections document the development history of in5PIRE.
 
 ### Milestone 1: Mockup development
-
-We are working on bringing you the first version of our product. Stay tuned!
+![](images/M1.png)
 
 ## Team
 
