@@ -54,7 +54,27 @@ This section will provide information of interest to developers wishing to use t
 
 ### Installation
 
-We will follow up with how to install our program here. Check back soon!
+1. Begin by installing Meteor based on the instructions tailored to your operating system.
+   
+2. Go to [https://github.com/ICS-414-In5PIRE/in5PIRE-code.git](https://github.com/ICS-414-In5PIRE/in5PIRE-code), and click the "Use this template" button. Complete the dialog box to create a new repository that you own that is initialized with this template's files.
+   
+3. Now, go to your newly created repository, and click the "Clone or download" button to download your new GitHub repo to your local file system.  Using [GitHub Desktop](https://desktop.github.com/) is a great choice if you use MacOS or Windows.
+   
+4. After downloading the template to your local machine, navigate to the 'app/' directory using the
+command line (cd) and install the necessary packages with the following command:
+
+```
+$ meteor npm install
+```
+
+5. Execute the system by running:
+
+```
+$ meteor npm run start
+```
+   
+5. Assuming everything is configured correctly, the application should be accessible at http://localhost:3000.
+
 
 #### ESLint
 
