@@ -45,7 +45,7 @@ Another version of the input page without the side text. In the final version, t
 A mockup showcasing the different graphs that we could include for visualisation on each of the financial profiles that a user created. This could be an upper-level page that includes descriptions and links to the actual graphs, or could scroll down into each of the graphs. 
 
 ### About Page
-![](image/AboutPage.png)
+![](images/AboutPage.png)
 A quick visualization of what our About page will look like. This page will eventually be implemented with pictures of important members and contacts.
 
 ## Community Feedback
