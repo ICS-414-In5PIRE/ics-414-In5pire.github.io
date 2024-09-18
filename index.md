@@ -52,6 +52,17 @@ Users may want to have more than one financial profile at a time (e.g. a persona
 ![](images/AboutPage.png)
 A quick visualization of what our About page will look like. This page will eventually be implemented with pictures of important members and contacts.
 
+### FAQ Page
+![](images/FAQPage.png)
+## Community Feedback
+
+### Contact Us Page
+![](images/ContactUsPage.png)
+
+### User Guide Page
+![](images/UserGuidePage1.png)
+![](images/UserGuidePage2.png)
+
 ## Community Feedback
 
 We are interested in your experience using in5PIRE! After project launch you can find our feedback form here. 
