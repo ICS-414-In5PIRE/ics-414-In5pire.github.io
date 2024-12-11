@@ -6,8 +6,8 @@
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
-* [Development History](#development-history)
 * [Continuous Integration](#continuous-integration)
+* [Development History](#development-history)
 * [Team](#team)
 
 ## Overview
@@ -146,45 +146,75 @@ The development process for in5PIRE conformed to [Issue Driven Project Managemen
 The following sections document the development history of in5PIRE.
 
 ### Milestone 1: Mockup development
+
+---
 ![](images/M1.png)
+
+---
 The main goal of Milestone 1 was to get familiarized with the environment and set goals in order to achieve what the customer wanted from the program. Most of the baseline was set during this milestone like the structure of the database, the frontend and the UI. 
 
 This milestone ran from August 28 - September 11. You can view the project board for this milestone [here.](https://github.com/orgs/ICS-414-In5PIRE/projects/3)
 
 ### Milestone 2: Customer Milestone 1
+
+---
 ![](images/M2.png)
+
+---
 This was a big milestone considering this is the first meeting we were going to have with the customer. More mockups were created and implemented into the project, like the profiles page, sign-in/signup pages, and the main dashboard. 
 
 This milestone ran from September 12 - October 2. You can view the project board for this milestone [here.](https://github.com/orgs/ICS-414-In5PIRE/projects/6/views/1)
 
 ### Milestone 3
+
+---
 ![](images/M3.png)
+
+---
 This was a small milestone since the last milestone was delayed by a week. Not much was done during this week long period and most of the progress was pushed to the next milestone. You can view the project board for this milestone [here.](https://github.com/orgs/ICS-414-In5PIRE/projects/7)
 
 ### Milestone 4: Customer Milestone 2
+
+---
 ![](images/M4.png)
+
+---
 This was the milestone leading up to the second meeting with the customer. With the customer feedback we got from the last meeting, we improved the UI and added some features like two-factor authentication (2FA), graphs for the dashboard, and roles so that only admins can edit the financial data provided. 
 
 This milestone ran from October 9 - October 23. You can view the project board for this milestone [here.](https://github.com/orgs/ICS-414-In5PIRE/projects/8/views/1)
 
 ### Milestone 5
+
+---
 ![](images/M5.png)
+
+---
 Most of the progress in this milestone were geared towards linking the imported data to the scenarios page and allowing the users to import and export data to the dashboard.
 
 This milestone ran from October 24 - November 6. You can view the project board for this milestone [here.](https://github.com/orgs/ICS-414-In5PIRE/projects/9)
 
 ### Milestone 6: Customer Milestone 3
+
+---
 ![](images/M6.png)
+
+---
 This milestone was mainly focused on linking the data with the projections and forecasts. Our graphs showed the 4 year, 8 year, and 12 year projections using the data that was provided by the user. We also implemented the projection formulas for the various different stats that are provided in the financial spreadsheets.
 
 This milestone ran from November 7 - November 20. You can view the project board for this milestone [here.](https://github.com/orgs/ICS-414-In5PIRE/projects/10/views/1)
 
 ### Milestone 7: Customer Milestone 4
+
+---
 ![](images/M7.png)
+
+---
 This is the final milestone lasting over a month after the 3rd meeting with our customer. Most of the focus was adding roles, finishing and polishing the snapshots and dashboard, and correcting the projections data. 
 
 This milestone ran from November 21 - December 11. You can view the project board for this milestone [here.](https://github.com/orgs/ICS-414-In5PIRE/projects/11/views/1)
 
 ## Team
+
+---
 
 in5PIRE is a group project designed, implemented, and maintained by Emily Hsu, Zachary Stoddard, Shedrick Klifford Ulibas, Dao McGill, Brayden Danielson, Bobby Roth, Luke Pagtulingan, and Sean Sunoo.
